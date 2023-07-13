@@ -21,4 +21,4 @@ export const ModalProvider = () => {
     )
 }
 
-//   we are maki this store Modal globally avaialinble from anywhere
+//   we are maki this store Modal globally avaialinble from anywhere avoiding hydration
